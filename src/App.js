@@ -5,6 +5,7 @@ import Chart from "./components/Chart/Chart";
 import CountryInfo from "./components/CountryInfo/CountryInfo";
 import { fetchData } from "./components/api";
 import { Col, Row, Container } from "react-bootstrap";
+//
 
 class App extends React.Component {
   constructor() {
