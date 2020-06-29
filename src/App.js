@@ -30,7 +30,7 @@ class App extends React.Component {
     return (
       <Container className={styles.container}>
         <Row className={styles.titleRow}>
-          <h1>COVID-19 TRACKER</h1>
+          <h1 className={styles.title}>COVID-19 TRACKER</h1>
         </Row>
         <Row className={styles.parentRow}>
           <Col>
