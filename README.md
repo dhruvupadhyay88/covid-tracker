@@ -7,4 +7,5 @@ CountUp,
 React ChartJS-2,
 React-Bootstrap
 
+View app: https://dhruvupadhyay88.github.io/covid-tracker/
 api used:https://covid19.mathdro.id/api
